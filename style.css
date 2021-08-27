@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
+.school {
+    width: 85%;
+    height: 100%;
+}
+
+.h1 {
+    color: fuchsia;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.Ch1 {
+    color: fuchsia;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.Holloway {
+    width: 70%;
+    padding-left: 70;
+}
