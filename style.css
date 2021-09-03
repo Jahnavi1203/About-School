@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+.school {
+    width: 85%;
+    height: 100%;
+}
+
+.h1 {
+    color: fuchsia;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.Holloway {
+    width: 70%;
+    padding-left: 70;
+}
+
+.library img {
+    width: 40%;
+    height: 300px;
+}
+#ScOfEx{
+    font-size:20px;
+}
+.library{
+    border:1px solid;
+    padding-left:0px;
+    padding-right:0px;
+    float:none;
+}
+.imgcanv{
+    width:90%;
+}
+.h3{
+padding-left:500;
+}
+.hr{
+    background-blend-mode: darken;
+}
